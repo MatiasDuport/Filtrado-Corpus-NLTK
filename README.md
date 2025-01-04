@@ -1,2 +1,2 @@
 # Filtrado-Corpus-NLTK
-Código que utiliza NLTK para filtrar un texto, eliminando palabras vacías (stopwords) y dejando solo las palabras relevantes.
+Código que procesa texto eliminando stopwords, puntuación y palabras vacías, lematizando las palabras restantes para obtener un corpus limpio y relevante.
